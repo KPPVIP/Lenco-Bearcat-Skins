@@ -1,0 +1,35 @@
+Thanks for downloading! Please go leave a review also!
+
+Changelog:
+1.0 - First Upload.
+1.1.0 - Fixed typo on LSPD skin. (Thanks AkAPs2)
+		Fixed typos in the Read Me.
+1.2.0 - Fixed all remaining typos in the skins. (I think)
+		Redesigned all of the skins slightly.
+					
+Here's a collection of skins I made for personal use. I decided to release them since T0Y released his ELS Bearcat. 
+These skins are lore friendly and are 2K. There's 1 skin per vehicle except for the SAHP. There are 3 SAHP skins,
+two black, one white. That way theres a 1 in 3 chance of a white SAHP Bearcat.
+This file includes blue light textures if you want to convert the lights to all blue. 
+Ive also included the light textures (Credit to T0y)
+I've included 2 VCF Files: 
+	redandblue.xml -	Edited t0y's original to add blue environmental lights.
+	allblue.xml -		All environmental lighs are blue / amber. No red.
+
+Feel free to modify these skins as you want. If you have any request, let me know and I'll see about getting it done. 
+
+ELS Compatible Bearcat:
+http://www.lcpdfr.com/files/file/14729-els-bcso-lenco-bearcat/
+
+Non ELS Bearcat:
+http://www.lcpdfr.com/files/file/12411-lenco-bearcat-swat-code-3-arch-liberty-more-lights/
+
+Of course the ELS version requires ELS:
+http://www.lcpdfr.com/files/file/13865-emergency-lighting-system/
+
+Credits:	Cosmo -	Template
+			Beren -	BCSO (San Benadino) Logo
+					LSSD (LASD) Logo
+					LSPD (LSPD) Logo
+					SAHP (CHP) Logo
+			T0Y -	Light Textures for ELS Bearcat
